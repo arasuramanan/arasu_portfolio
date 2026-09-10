@@ -34,7 +34,7 @@ export default function Resume() {
 
       <div className="flex flex-wrap justify-center gap-3 mb-10">
         <Button asChild size="lg" className="bg-gradient-primary text-primary-foreground border-0 shadow-glow">
-          <a href="/resume.pdf" download="Arasu_Ramanan_Resume.pdf">
+          <a href="/res.pdf" download="Arasu_Ramanan_Resume.pdf">
             <Download className="mr-2 w-4 h-4" /> Download PDF
           </a>
         </Button>
