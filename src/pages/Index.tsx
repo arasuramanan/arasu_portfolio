@@ -78,7 +78,7 @@ export default function Index() {
               variant="outline"
               className="group glass border-primary/40 hover:border-primary hover:shadow-glow-soft"
             >
-              <a href="/resume.pdf" download>
+              <a href="/res.pdf" download>
                 <Download className="mr-1.5 w-4 h-4 transition-transform group-hover:translate-y-0.5" />
                 Download Resume
               </a>
